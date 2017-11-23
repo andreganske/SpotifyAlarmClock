@@ -1,0 +1,22 @@
+{
+  "name": "spotifyalarmclock",
+  "version": "1.0.0",
+  "description": "A service to play spotify music in a given time",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreganske/SpotifyAlarmClock.git"
+  },
+  "author": "aganske",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreganske/SpotifyAlarmClock/issues"
+  },
+  "homepage": "https://github.com/andreganske/SpotifyAlarmClock#readme"
+}
